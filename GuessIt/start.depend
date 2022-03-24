@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1645608534 source:d:\lap trinh c++\start\untitled10.cpp
+	<iostream>
+	<SDL.h>
+
